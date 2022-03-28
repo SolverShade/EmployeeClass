@@ -1,0 +1,7 @@
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\bin\Debug\Database\Employees.xml
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\bin\Debug\EmployeeLogic.dll
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\bin\Debug\EmployeeLogic.pdb
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\obj\Debug\EmployeeLogic.csproj.AssemblyReference.cache
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\obj\Debug\EmployeeLogic.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\obj\Debug\EmployeeLogic.dll
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\EmployeeLogic\obj\Debug\EmployeeLogic.pdb

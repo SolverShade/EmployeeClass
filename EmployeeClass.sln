@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{B19B4786-F5EE-4524-81E6-F6A775A457ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLogic", "EmployeeLogic\EmployeeLogic.csproj", "{934BC86B-7274-469B-AF4F-5B0648FB702C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19B4786-F5EE-4524-81E6-F6A775A457ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19B4786-F5EE-4524-81E6-F6A775A457ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19B4786-F5EE-4524-81E6-F6A775A457ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19B4786-F5EE-4524-81E6-F6A775A457ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934BC86B-7274-469B-AF4F-5B0648FB702C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934BC86B-7274-469B-AF4F-5B0648FB702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934BC86B-7274-469B-AF4F-5B0648FB702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934BC86B-7274-469B-AF4F-5B0648FB702C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1763F3DA-976B-4B5E-97E6-3CBA639BB431}
+	EndGlobalSection
+EndGlobal

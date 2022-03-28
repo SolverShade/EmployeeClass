@@ -1,0 +1,14 @@
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\bin\Debug\WinUI.exe.config
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\bin\Debug\WinUI.exe
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\bin\Debug\WinUI.pdb
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.Form1.resources
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.exe
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.pdb
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\bin\Debug\Database\Employees.xml
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\bin\Debug\EmployeeLogic.dll
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\bin\Debug\EmployeeLogic.pdb
+C:\Users\HarambeCrompten\source\repos\EmployeeClass\WinUI\obj\Debug\WinUI.csproj.CopyComplete

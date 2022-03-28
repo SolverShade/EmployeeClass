@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<root>
+	<Employee Name = "Susan Meyers" IdNumber ="47899" Department ="Accounting" Position ="Vice President"/>
+	<Employee Name = "Mark Jones" IdNumber ="39119" Department ="IT" Position ="Programmer" />
+	<Employee Name = "Joy Rogers" IdNumber ="81774" Department ="Manufacturing" Position ="Engineer" />
+</root> 
